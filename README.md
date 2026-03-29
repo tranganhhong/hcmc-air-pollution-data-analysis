@@ -40,7 +40,7 @@ Dự án hướng đến:
 ## Phân tích dữ liệu
 Dữ liệu sử dụng:
 - Dữ liệu chất lượng không khí tại TP.HCM;
-- Bao gồm các chỉ số như PM2.5, PM10, AQI, thời gian, khu vực;
+- Bao gồm các chỉ số như PM2.5, PM10, AQI, thời gian, khu vực.
 
 Quy trình xử lý:
 - Làm sạch dữ liệu (missing values, định dạng);
