@@ -71,7 +71,7 @@ Kết quả có thể hỗ trợ:
 ---
 
 ## Nguồn dataset
-https://data.mendeley.com/datasets/pk6tzrjks8/1?
+https://data.mendeley.com/datasets/pk6tzrjks8/1
 
 ---
 
