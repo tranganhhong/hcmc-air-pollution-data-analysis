@@ -76,11 +76,11 @@ https://data.mendeley.com/datasets/pk6tzrjks8/1
 ---
 
 ## Tác giả
-* **Nguyễn Vũ Tường Anh**
-* **Hồng Trang Anh**
-* **Nguyễn Quỳnh Duyên**
-* **Nguyễn Trần Yên Đan**
-* **Đinh Hải Ngân**
+* **Nguyễn Vũ Tường Anh**;
+* **Hồng Trang Anh**;
+* **Nguyễn Quỳnh Duyên**;
+* **Nguyễn Trần Yên Đan**;
+* **Đinh Hải Ngân**.
 
 ---
 
